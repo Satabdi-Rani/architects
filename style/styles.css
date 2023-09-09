@@ -106,6 +106,9 @@ main{
 }
 
 /* Fatcs section */
+.facts{
+    margin: 100px 0;
+}
 .facts_card_container{
     display: flex;
     justify-content: space-around;
@@ -129,10 +132,19 @@ main{
     margin-bottom:10px;
     
 }
+.facts h3{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.facts p{
+    text-align: center;
+    margin-bottom: 40px;
+}
 
 /* Sponsors */
 .sponsors{
     text-align: center;
+    margin: 100px 0;
 }
 .sponsors_img_container{
     display: flex;
@@ -142,6 +154,14 @@ main{
 }
 .sponsors_img_container img{
     width: 165px;
+}
+.sponsors h3{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.sponsors p{
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 /* ************************************** */
