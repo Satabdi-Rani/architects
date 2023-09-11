@@ -164,6 +164,10 @@ main{
     margin-bottom: 40px;
 }
 
+footer p{
+    text-align: center;
+}
+
 /* ************************************** */
 
 @media screen and (max-width:576px) {
